@@ -1,19 +1,5 @@
 # Hey Folks 👋, I'm Anugrah KS  
 
-Ever gone to someone’s GitHub profile and thought:  
-
-> “Wow, this looks super clean and professional. I wish mine looked like this too!” 🤯  
-
-Well — good news 😄  
-
-Building a **professional GitHub profile** is **much easier than you think**, even if you're not a senior developer.  
-
-In this README, I’ll showcase **my skills, projects, and experience** in a clean, professional way — focused on **backend development, SQL engineering, server deployment, and DevOps**.
-
-Ready? Let’s gooo 🚀  
-
----
-
 ## 👨‍💻 About Me  
 
 👋 Hi, I'm **Anugrah KS** — a Backend Developer & Database Specialist from India 🇮🇳.  
