@@ -1,53 +1,84 @@
 # Hi 👋, I'm Anugrah KS
-### 🎨 Frontend Development
 
 
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+Backend Developer 💻 | SQL & T-SQL Specialist 🛢️ | Server Deployment Engineer ⚙️ | DevOps 🐳 | Security Enthusiast 🔐
 
 
 ---
 
 
-### 🔐 Security & Ethical Hacking
+## 🏅 Achievements & Badges
 
 
-![Security](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackaday&logoColor=white)
-
-
----
-
-
-### 🛠 Tools & Platforms
-
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+![Quickdraw](https://img.shields.io/badge/Quickdraw-🏹-yellow?style=for-the-badge)
+![Pull Shark](https://img.shields.io/badge/Pull_Shark-🦈-blue?style=for-the-badge)
+![Pair Extraordinaire](https://img.shields.io/badge/Pair_Extraordinaire-🤝-green?style=for-the-badge)
+![Starstruck](https://img.shields.io/badge/Starstruck-⭐-gold?style=for-the-badge)
 
 
 ---
 
 
-## 📌 Key Projects
+## 👨‍💻 About Me
 
 
-- Asset Management System API
-- CRM Backend System
-- BuildExe Services API
-- File Upload & Document Management System
-- Server Deployment Automation
+👋 Hi, I'm **Anugrah KS** — a Backend Developer and Database Specialist from India 🇮🇳.
+
+
+I specialize in **ASP.NET Core Web APIs, SQL Server, and T-SQL**, and I handle **server deployment, production hosting, optimization, and maintenance**.
+
+
+I build **secure, scalable, and high-performance backend systems**, design **optimized database architectures**, and manage **Linux & IIS servers with Docker-based deployments**.
+
+
+I also work with **frontend technologies**, have working knowledge of **Angular**, and practical exposure to **ethical hacking & security testing**.
 
 
 ---
 
 
-## ⚡ Fun Fact
+## 💼 Professional Experience
 
 
-I enjoy **optimizing slow SQL queries and tuning server performance** more than building UI 😄
+### Backend Developer & Deployment Engineer
+**October 2023 – Present**
+
+
+- Developed enterprise-grade **ASP.NET Core Web APIs**
+- Designed **SQL Server schemas, stored procedures & triggers**
+- Optimized **T-SQL queries for performance**
+- Deployed and maintained **production servers (IIS & Linux)**
+- Implemented **Docker containerization & CI/CD pipelines**
+- Performed **server monitoring, security hardening & optimization**
+
+
+---
+
+
+## 🛠 Core Responsibilities
+
+
+- Backend API Development
+- SQL & T-SQL Optimization
+- Database Design
+- Stored Procedures & Triggers
+- Server Deployment & Maintenance
+- IIS & Linux Hosting
+- Docker Deployments
+- Security Testing
+- Performance Tuning
+
+
+---
+
+
+## ⚡ GitHub Stats Dashboard
+
+
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anugrahks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://streak-stats.demolab.com?user=Anugrahks&theme=tokyonight&hide_border=true" />
+</p>
 
 
 ---
