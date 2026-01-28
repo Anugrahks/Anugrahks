@@ -33,12 +33,10 @@ I also have working knowledge of **Angular, HTML, CSS**, and **ethical hacking f
 ## 🏅 GitHub Achievements
 
 
-<p align="center">
-<img src="https://img.shields.io/badge/Pull_Shark-🦈_x2-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YOLO-🌈-ff69b4?style=for-the-badge"/>
-</p>
----
+## 🏅 GitHub Achievements  
 
+🦈 **Pull Shark ×2** — 2 merged pull requests  
+🌈 **YOLO** — First merged pull request
 ## 🎓 Certifications & Badges  
 
 <!--START_SECTION:badges-->
