@@ -83,6 +83,7 @@ This repository showcases a comprehensive overview of the technologies I frequen
 
 I enjoy **optimizing slow SQL queries and tuning server performance more than building UI** 😄  
 
+---
 
 ## 🏅 Achievements & Badges  
 
