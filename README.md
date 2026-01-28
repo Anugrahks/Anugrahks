@@ -1,7 +1,7 @@
 # Hi 👋, I'm Anugrah KS
 
 
-Backend Developer 💻 | SQL & T-SQL Specialist 🛢️ | Server Deployment Engineer ⚙️ | DevOps 🐳 | Security Enthusiast 🔐
+Backend Developer 💻 | SQL & T-SQL  🛢️ | Server Deployment Engineer ⚙️ | DevOps 🐳 | Security Enthusiast 🔐
 
 
 ---
