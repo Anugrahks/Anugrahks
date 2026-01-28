@@ -30,6 +30,8 @@ I also have working knowledge of **Angular, HTML, CSS**, and **ethical hacking f
 
 ---
 
+## 🏅 GitHub Achievements
+
 
 <p align="center">
   <img width="120" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"/>
