@@ -79,32 +79,26 @@ I build **secure, scalable, high-performance backend systems**, and also work wi
 
 ---
 
-
 ## 📊 GitHub Stats
 
-
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anugraks&show_icons=true&theme=tokyonight" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anugraks&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Anugrahks&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anugrahks&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
-
 ---
-
 
 ## 🏆 GitHub Achievements
 
-
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Anugraks&theme=darkhub&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Anugrahks&theme=darkhub&no-frame=true&row=1&column=6" />
 </p>
-
 
 ---
 
-
 ## 📈 Contribution Graph
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anugrahks&theme=tokyo-night)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anugraks&theme=tokyo-night)
 
