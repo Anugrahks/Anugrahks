@@ -44,31 +44,6 @@ I also have working knowledge of **Angular, HTML, CSS**, and **ethical hacking f
 
 ---
 
-## ⚡ GitHub Stats Dashboard  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anugrahks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Anugrahks&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anugrahks&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anugrahks&theme=tokyonight" />
-</p>
-
----
-
-## 🏅 Achievements & Badges  
-
-![Quickdraw](https://img.shields.io/badge/Quickdraw-🏹-yellow?style=for-the-badge)
-![Pull Shark](https://img.shields.io/badge/Pull_Shark-🦈-blue?style=for-the-badge)
-![Pair Extraordinaire](https://img.shields.io/badge/Pair_Extraordinaire-🤝-green?style=for-the-badge)
-![Starstruck](https://img.shields.io/badge/Starstruck-⭐-gold?style=for-the-badge)
-
-> These achievements are awarded automatically by GitHub.
-
----
-
 ## 💻 My Tech Stack  
 
 This repository showcases a comprehensive overview of the technologies I frequently use in my projects.
@@ -134,4 +109,25 @@ Quality > Quantity ❤️
 
 ---
 
-⭐ Clean Code | Secure Systems | Scalable Architecture
+## 🏅 Achievements & Badges  
+
+![Quickdraw](https://img.shields.io/badge/Quickdraw-🏹-yellow?style=for-the-badge)
+![Pull Shark](https://img.shields.io/badge/Pull_Shark-🦈-blue?style=for-the-badge)
+![Pair Extraordinaire](https://img.shields.io/badge/Pair_Extraordinaire-🤝-green?style=for-the-badge)
+![Starstruck](https://img.shields.io/badge/Starstruck-⭐-gold?style=for-the-badge)
+
+---
+
+## ⚡ GitHub Stats Dashboard  
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anugrahks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Anugrahks&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anugrahks&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anugrahks&theme=tokyonight" />
+</p>
+
+---
