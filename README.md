@@ -100,7 +100,7 @@ I build **secure, scalable, high-performance backend systems**, and also work wi
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anugrahks&theme=tokyo-night)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anugraks&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Anugrahks&theme=tokyo-night)
 
 
 ---
