@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Anugrah%20KS&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
 
-<h3 align="center">Backend Developer | SQL & T-SQL Specialist | Server Deployment Engineer</h3>
+<h3 align="center">Backend Developer | SQL & T-SQL  | Server Deployment Engineer</h3>
 
 
 <p align="center">
