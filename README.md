@@ -32,10 +32,10 @@ I also have working knowledge of **Angular, HTML, CSS**, and **ethical hacking f
 
 ## 🏅 GitHub Achievements  
 
-![Quickdraw](https://img.shields.io/badge/Quickdraw-🏹-yellow?style=for-the-badge)
-![Pull Shark](https://img.shields.io/badge/Pull_Shark-🦈-blue?style=for-the-badge)
-![Pair Extraordinaire](https://img.shields.io/badge/Pair_Extraordinaire-🤝-green?style=for-the-badge)
-![Starstruck](https://img.shields.io/badge/Starstruck-⭐-gold?style=for-the-badge)
+## 🏅 GitHub Achievements  
+
+![Pull Shark](https://img.shields.io/badge/Pull_Shark-🦈_x2-blue?style=for-the-badge)
+![YOLO](https://img.shields.io/badge/YOLO-🌈-ff69b4?style=for-the-badge)
 
 ---
 
