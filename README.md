@@ -31,11 +31,11 @@ I also have working knowledge of **Angular, HTML, CSS**, and **ethical hacking f
 ---
 
 
-## 🏅 GitHub Achievements  
-
-![Pull Shark x2](https://img.shields.io/badge/Pull_Shark-x2-blue?style=flat-square)
-![YOLO](https://img.shields.io/badge/YOLO-Achievement-ff69b4?style=flat-square)
-
+<p align="center">
+  <img width="120" src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png"/>
+  <sub><b>×2</b></sub>
+  <img width="120" src="https://github.githubassets.com/images/modules/profile/achievements/yolo-default.png"/>
+</p>
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
 
