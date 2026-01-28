@@ -66,8 +66,7 @@ I enjoy building **scalable backend systems, optimized databases, and secure dep
 ---
 
 ## 📫 Contact Me
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 📧 Email: anugrahks075@gmail.com
 
 ---
 
