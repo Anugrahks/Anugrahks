@@ -1,11 +1,4 @@
-## Hi there 👋
-# Asset Management System API
-
-A secure and scalable backend API built using **ASP.NET Core and SQL Server** for managing company assets, including asset tracking, role-based access control, and secure file handling.
-
----
-
-## 🛠 Tech S# Hi 👋, I'm Anugrah KS  
+Hi 👋, I'm Anugrah KS  
 
 💻 Backend Developer | SQL & T-SQL Specialist | Server Deployment & Maintenance  
 
