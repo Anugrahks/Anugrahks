@@ -30,20 +30,6 @@ I also have working knowledge of **Angular, HTML, CSS**, and **ethical hacking f
 
 ---
 
-## ⚡ GitHub Stats Dashboard  
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anugrahks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=Anugrahks&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anugrahks&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anugrahks&theme=tokyonight" />
-</p>
-
----
-
 ## 🏅 GitHub Achievements  
 
 ![Quickdraw](https://img.shields.io/badge/Quickdraw-🏹-yellow?style=for-the-badge)
@@ -94,6 +80,21 @@ I also have working knowledge of **Angular, HTML, CSS**, and **ethical hacking f
 - Asset Management System API  
 - CRM Backend System  
 - BuildExe Services API  
-- SQL Performance Optimization Toolkit  
+- SQL Performance Optimization Toolkit
 
 ---
+
+## ⚡ GitHub Stats Dashboard  
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Anugrahks&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Anugrahks&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anugrahks&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Anugrahks&theme=tokyonight" />
+</p>
+
+---
+
