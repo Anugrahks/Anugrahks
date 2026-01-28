@@ -1,97 +1,85 @@
-Hi 👋, I'm Anugrah KS  
+# Hi 👋 I'm Anugrah KS
 
-💻 Backend Developer | SQL & T-SQL Specialist | Server Deployment & Maintenance  
 
----
+💻 Backend Developer | SQL & T-SQL | Server Deployment | DevOps | Security
 
-## 👨‍💻 About Me
-
-I am a backend-focused developer with strong experience in **SQL Server, T-SQL, ASP.NET Core APIs**, and **server deployment & maintenance**.  
-I also work with **frontend technologies** and have foundational knowledge in **ethical hacking and security practices**.
-
-I enjoy building **scalable backend systems, optimized databases, and secure deployments**.
 
 ---
 
-## 🛠 Technical Skills
 
-### 🔹 Backend & Database
-- ASP.NET Core Web API
-- C#
-- SQL Server
-- T-SQL (Stored Procedures, Triggers, Performance Tuning)
+## 💻 My Tech Stack
 
-### 🔹 Server & DevOps
-- Server Deployment & Maintenance
-- IIS Hosting
-- Linux Server Basics
-- Docker (Containerization)
-- CI/CD Basics
 
-### 🔹 Frontend
-- Angular (Basics)
-- HTML
-- CSS
+This repository showcases a comprehensive overview of the technologies I frequently use in my projects.
 
-### 🔹 Security
-- Ethical Hacking (Basics)
-- Web Security Fundamentals
-
-### 🔹 Tools
-- Git & GitHub
-- Visual Studio
-- VS Code
-- Postman
-- Docker
 
 ---
 
-## 🚀 What I Do
+
+## 🚀 Backend Development
+
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Web API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![T-SQL](https://img.shields.io/badge/T--SQL-003B57?style=for-the-badge)
+
+
+---
+
+
+## ⚙ Server, DevOps & Deployment
+
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![IIS](https://img.shields.io/badge/IIS-0078D7?style=for-the-badge&logo=windows&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=for-the-badge)
+
+
+---
+
+
+## 🎨 Frontend Development
+
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+
+---
+
+
+## 🔐 Security & Ethical Hacking
+
+
+![Security](https://img.shields.io/badge/Ethical_Hacking-000000?style=for-the-badge&logo=hackaday&logoColor=white)
+![Cyber Security](https://img.shields.io/badge/Cyber_Security-2E2E2E?style=for-the-badge)
+
+
+---
+
+
+## 🛠 Tools & Platforms
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
+
+
+---
+
+
+## 📌 Key Focus Areas
+
+
 - Backend API Development
 - SQL & T-SQL Optimization
-- Database Design
 - Server Deployment & Maintenance
-- Application Hosting & Monitoring
-- Basic Frontend Development
-- Security Testing & Hardening
-
----
-
-## 📌 Key Projects
-- Asset Management System API
-- CRM Backend System
-- BuildExe Services API
-- File Upload & Document Management System
-
----
-
-## 📫 Contact Me
-- 📧 Email: anugrahks075@gmail.com
-
----
-
-⭐ Feel free to explore my repositories and connect with me!tack
-- ASP.NET Core Web API
-- SQL Server
-- T-SQL (Stored Procedures, Triggers)
-- Entity Framework Core
-- Docker (Optional Deployment)
-
----
-
-## 🚀 Features
-- Asset CRUD operations
-- Role-based authentication & authorization
-- Secure file upload handling
-- Optimized SQL queries and stored procedures
-- Audit logging & tracking
-
----
-
-## ⚙ How to Run
-1. Clone the repository  
-2. Update database connection string in `appsettings.json`  
-3. Run database migrations  
-4. Start the API using Visual Studio or:
-   ```bash
-   dotnet run
+- Docker Containerization
+- Secure System Design
+- Performance Tuning
